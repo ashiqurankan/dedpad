@@ -1,0 +1,14 @@
+version: 1
+bundleID: com.dedstudio.dedpad
+product: Dedpad
+infoPath: Info.plist
+iconPath: Resources/AppIcon.png
+resources:
+  - Resources/Fonts/DedDisplay-Bold.ttf
+  - Resources/Fonts/DedDisplay-ExtraBold.ttf
+  - Resources/Fonts/DedDisplay-Medium.ttf
+  - Resources/Fonts/DedSans-Bold.ttf
+  - Resources/Fonts/DedSans-Medium.ttf
+  - Resources/Fonts/DedSans-Regular.ttf
+  - Resources/Fonts/DedSans-SemiBold.ttf
+  - Resources/google.json
